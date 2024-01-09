@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicacion1</string>
+    <string name="titulo">Lista de Nombres</string>
+    <string name="resultado">aki se muestra el resultado</string>
+</resources>
